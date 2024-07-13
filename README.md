@@ -1,4 +1,15 @@
-# AngularCrash
+## Angular Crash Course
+
+# Brian Thompson
+# WEB 215 - Wake Tech Community College
+# Angular Crash Course Tutorial Project
+
+This project was coded following the instructions from the YouTube Angular Crash Course Video Tutorial
+https://www.youtube.com/watch?v=3dHNOWTI7H8 by TRAVERSY MEDIA
+
+The tutorial project is a Task Tracker that allows users to view, add, and delete Tasks
+
+## Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
 
